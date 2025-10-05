@@ -1,0 +1,15 @@
+ModificationType: Executable
+Name: testExecutable
+Version: 2.0.0
+SimpleDownloadLink: "https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded.exe"
+UIImageSourceLink: ''
+DiscordLink: ''
+ModDBLink: ''
+NewsLink: ''
+DependenceName: ''
+S3HostLink: ''
+S3BucketName: ''
+S3FolderName: ''
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+SupportLink: ''
