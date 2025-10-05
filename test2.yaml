@@ -1,12 +1,12 @@
 ModificationType: Executable
-Name: testExecutable
-Version: 2.0.0
+Name: testExecutable2
+Version: 3.0.0
 SimpleDownloadLink: "https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded.exe"
 UIImageSourceLink: ''
 DiscordLink: ''
 ModDBLink: ''
 NewsLink: ''
-DependenceName: 'Rise of the reds'
+DependenceName: 'Zero Hour Enhanced'
 S3HostLink: ''
 S3BucketName: ''
 S3FolderName: ''
