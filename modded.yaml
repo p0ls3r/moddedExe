@@ -13,3 +13,7 @@ S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 SupportLink: ''
+ExceptionNames: []
+ExecutableFileName: "modded.exe"
+ReplacesOriginalGameFile: true
+ReplacesOriginalWBFile: false
