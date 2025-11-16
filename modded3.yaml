@@ -1,0 +1,19 @@
+ModificationType: Executable
+Name: ModdedExe3
+Version: 1.0.0
+SimpleDownloadLink: "https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded3.exe"
+UIImageSourceLink: ''
+DiscordLink: ''
+ModDBLink: ''
+NewsLink: ''
+DependenceName: 'Original Game'
+S3HostLink: ''
+S3BucketName: ''
+S3FolderName: ''
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+SupportLink: ''
+ExceptionNames: []
+ExecutableFileName: "modded.exe3"
+ReplacesOriginalGameFile: true
+ReplacesOriginalWBFile: false
